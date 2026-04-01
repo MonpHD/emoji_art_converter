@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+emoji_art_converter/__init__.py
+emoji_art_converter/core.py
+emoji_art_converter/gui.py
+emoji_art_converter/palette.py
+emoji_art_converter.egg-info/PKG-INFO
+emoji_art_converter.egg-info/SOURCES.txt
+emoji_art_converter.egg-info/dependency_links.txt
+emoji_art_converter.egg-info/entry_points.txt
+emoji_art_converter.egg-info/requires.txt
+emoji_art_converter.egg-info/top_level.txt
+emoji_art_converter/data/emoji_palette.json

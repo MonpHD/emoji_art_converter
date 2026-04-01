@@ -1,0 +1,2 @@
+[console_scripts]
+emoji-art-converter = emoji_art_converter.gui:launch_gui
