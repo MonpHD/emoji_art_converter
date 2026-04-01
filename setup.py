@@ -10,9 +10,9 @@ setup(
     description="Convert images to colorful emoji art for SMS, messaging, and fun!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/deinname/emoji-art-converter",  # optional
+    url="https://github.com/MonpHD/emoji_art_converter",  # optional
     author="MonpHD",
-    author_email="deine@email.com",
+    author_email="mail+emoji_converter@monphd.de",
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
@@ -46,6 +46,6 @@ setup(
         ],
     },
     project_urls={
-        "Source": "https://github.com/deinname/emoji-art-converter",
+        "Source": "https://github.com/MonpHD/emoji_art_converter",
     },
 )
